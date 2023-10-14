@@ -4,9 +4,9 @@ import { FEATURES } from "../../constants";
 
 const Features = () => {
   return (
-    <section className="flexCenter flex-col overflow-hidden bg-feature-bg bg-cover bg-center bg-no-repeat py-24">
+    <section className="flexCenter flex-col overflow-hidden bg-feature-bg bg-center bg-no-repeat py-24">
       <div className="max-container padding-container relative w-full justify-end flex">
-        <div className="flex flex-1 lg:min-h-[900px]:">
+        <div className="flex flex-1 lg:min-h-[900px]">
           <Image
             src="/phone.png"
             alt="phone"
